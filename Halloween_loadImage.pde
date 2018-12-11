@@ -1,3 +1,4 @@
+/* @pjs preload= "Halloween_loadImage.png";*/
 PImage img;
 
 void setup() {
