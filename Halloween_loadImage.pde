@@ -1,4 +1,4 @@
-/* @pjs preload= "Halloween_loadImage.png";*/
+/* @pjs preload= "Venom.jpg";*/
 PImage img;
 
 void setup() {
@@ -13,7 +13,7 @@ void draw()
 
 void mouseDragged()
 {
-  blendMode(OVERLAY);
+  //blendMode(OVERLAY);
   noStroke();
   fill(#AF0404);
   ellipse(mouseX,mouseY,5,5);
